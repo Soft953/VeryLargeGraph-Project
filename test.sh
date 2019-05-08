@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Test on inet graph
+
 make -C src/gen-louvain/
 ./src/gen-louvain/convert -i graph/inet -o graph/inet.bin
 ./src/gen-louvain/louvain graph/inet.bin -l -1 -v > graph/inet.tree

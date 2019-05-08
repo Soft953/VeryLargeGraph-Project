@@ -1,6 +1,7 @@
 #include "stdlib.h"
 #include "stdio.h"
 #include "string.h"
+#include "time.h"
 
 #define MAX_LINE_LENGTH 1000
 
@@ -246,12 +247,13 @@ int main(int argc, char** argv) {
 
     FILE* file = fopen(argv[1], "r");
     graph* g = graph_from_file(file);
-    int* bfs_result = bfs_tree(g, 4);
+    int bfs_start = rand() % (g->n);
+    int* bfs_result = bfs_tree(g, bfs_start);
     /*for (int i = 0; i < g->n; i++) {
         printf("%d\n", bfs_result[i]);
     }*/
     renumbering(g, bfs_result);
-    bfs_result = bfs_tree(g, 0);
+    //bfs_result = bfs_tree(g, 0);
     
     //printf("\n --- Renumbering --- \n");
     /*
