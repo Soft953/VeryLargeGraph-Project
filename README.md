@@ -15,3 +15,7 @@ First run louvain algorithm (follow louvain README).
 Then run reordering algorithm (again, follow reordering README).
 
 And finally run again louvain to see the difference.
+
+#Test Script
+
+You can run a simple example on inet graph using ./test.sh
