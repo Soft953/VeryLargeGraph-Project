@@ -9,15 +9,6 @@ void report_error(char *s){
     exit(-1);
 }
 
-typedef struct graph{
-    int n;
-    int m;
-    int **links;
-    int *degrees;
-    int *capacities;
-} graph;
-
-
 /******** QUEUE functions - begin *********/
 
 typedef struct queue{
@@ -72,6 +63,16 @@ int queue_get(queue *q){
 }
 
 /******** QUEUE functions - end *********/
+
+/******** GRAPH functions - begin *********/
+
+typedef struct graph{
+    int n;
+    int m;
+    int **links;
+    int *degrees;
+    int *capacities;
+} graph;
 
 graph *graph_from_file(FILE *f){
     char line[MAX_LINE_LENGTH];
@@ -234,6 +235,8 @@ void graph_to_file(graph* g, FILE *f){
         }
     }
 }
+
+/******** GRAPH functions - end *********/
 
 int main(int argc, char** argv) {
     if (argc <= 1) {
