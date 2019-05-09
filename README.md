@@ -18,4 +18,4 @@ And finally run again louvain to see the difference.
 
 #Test Script
 
-You can run a simple example on inet graph using ./test.sh
+You can run a simple example on inet graph using ./test.sh name_of_graph (ip, inet, p2p)
