@@ -264,8 +264,8 @@ int min_degree(graph* g) {
 /******** GRAPH functions - end *********/
 
 int main(int argc, char** argv) {
-    if (argc <= 1) {
-        printf("Please specified a graph\n");
+    if (argc <= 3) {
+        printf("Please specified: graph outputfile bfs_start_method\n");
         return 0;
     }
 
@@ -273,11 +273,21 @@ int main(int argc, char** argv) {
     graph* g = graph_from_file(file);
     
     //random start
-    int bfs_start = rand() % (g->n);
+    int bfs_start = 0;
+    if (!strcmp(argv[3], "rand")) {
+        printf("Rand reordering\n");
+        bfs_start = rand() % (g->n);
+    }
     //maximum degree start
-    bfs_start = max_degree(g);
+    if (!strcmp(argv[3], "max")) {
+        printf("Max degree reordering\n");
+        bfs_start = max_degree(g);
+    }
     //minimum degree start
-    bfs_start = min_degree(g); 
+    if (!strcmp(argv[3], "min")) {
+        printf("Min degree reordering\n");
+        bfs_start = min_degree(g);
+    }
     int* bfs_result = bfs_tree(g, bfs_start);
     /*for (int i = 0; i < g->n; i++) {
         printf("%d\n", bfs_result[i]);
