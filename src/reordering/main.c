@@ -237,6 +237,30 @@ void graph_to_file(graph* g, FILE *f){
     }
 }
 
+int max_degree(graph* g) {
+    int max = 0;
+    int index = 0;
+    for(int i = 0; i < g->n; i++) {
+        if (g->capacities[i] >= max) {
+            max = g->capacities[i];
+            index = i; 
+        }
+    }
+    return index;
+}
+
+int min_degree(graph* g) {
+    int* min = NULL;
+    int index = 0;
+    for(int i = 0; i < g->n; i++) {
+        if (!min || g->capacities[i] <= *min) {
+            min = &g->capacities[i];
+            index = i; 
+        }
+    }
+    return index;
+}
+
 /******** GRAPH functions - end *********/
 
 int main(int argc, char** argv) {
@@ -247,7 +271,13 @@ int main(int argc, char** argv) {
 
     FILE* file = fopen(argv[1], "r");
     graph* g = graph_from_file(file);
+    
+    //random start
     int bfs_start = rand() % (g->n);
+    //maximum degree start
+    bfs_start = max_degree(g);
+    //minimum degree start
+    bfs_start = min_degree(g); 
     int* bfs_result = bfs_tree(g, bfs_start);
     /*for (int i = 0; i < g->n; i++) {
         printf("%d\n", bfs_result[i]);
