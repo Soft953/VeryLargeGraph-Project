@@ -3,7 +3,9 @@
 To run this code
 
 - make
-- ./reordering graph_to_compute outputfile
+- ./reordering graph_to_compute outputfile reordering_method
+
+with reordering_method = rand | min | max
 
 I reused code from Clemence Magnien: 
 
