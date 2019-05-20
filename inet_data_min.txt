@@ -1,0 +1,1415 @@
+Begin: Sun May 19 22:33:14 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:33:14 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.179726
+  end computation: Sun May 19 22:35:02 2019
+level 1:
+  start computation: Sun May 19 22:35:02 2019
+  network size: 287808 nodes, 11596626 links, 2.39354e+07 weight
+  quality increased from 0.179726 to 0.243505
+  end computation: Sun May 19 22:35:15 2019
+level 2:
+  start computation: Sun May 19 22:35:15 2019
+  network size: 3633 nodes, 206659 links, 2.39354e+07 weight
+  quality increased from 0.243505 to 0.244274
+  end computation: Sun May 19 22:35:15 2019
+level 3:
+  start computation: Sun May 19 22:35:15 2019
+  network size: 81 nodes, 5899 links, 2.39354e+07 weight
+  quality increased from 0.244274 to 0.244284
+  end computation: Sun May 19 22:35:15 2019
+level 4:
+  start computation: Sun May 19 22:35:15 2019
+  network size: 46 nodes, 2114 links, 2.39354e+07 weight
+  quality increased from 0.244284 to 0.244285
+  end computation: Sun May 19 22:35:15 2019
+level 5:
+  start computation: Sun May 19 22:35:15 2019
+  network size: 44 nodes, 1936 links, 2.39354e+07 weight
+  quality increased from 0.244285 to 0.244285
+  end computation: Sun May 19 22:35:15 2019
+End: Sun May 19 22:35:15 2019
+Total duration: 121 sec
+0.244285
+Begin: Sun May 19 22:35:41 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:35:41 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:35:57 2019
+level 1:
+  start computation: Sun May 19 22:35:57 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:35:57 2019
+level 2:
+  start computation: Sun May 19 22:35:57 2019
+  network size: 404 nodes, 2076 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:35:57 2019
+level 3:
+  start computation: Sun May 19 22:35:57 2019
+  network size: 189 nodes, 1003 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:35:57 2019
+level 4:
+  start computation: Sun May 19 22:35:57 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:35:57 2019
+level 5:
+  start computation: Sun May 19 22:35:57 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:35:57 2019
+End: Sun May 19 22:35:57 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 22:35:57 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:35:57 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135511
+  end computation: Sun May 19 22:37:31 2019
+level 1:
+  start computation: Sun May 19 22:37:31 2019
+  network size: 390814 nodes, 20503365 links, 2.39354e+07 weight
+  quality increased from 0.135511 to 0.236172
+  end computation: Sun May 19 22:37:59 2019
+level 2:
+  start computation: Sun May 19 22:37:59 2019
+  network size: 1015 nodes, 63049 links, 2.39354e+07 weight
+  quality increased from 0.236172 to 0.236494
+  end computation: Sun May 19 22:37:59 2019
+level 3:
+  start computation: Sun May 19 22:37:59 2019
+  network size: 49 nodes, 2329 links, 2.39354e+07 weight
+  quality increased from 0.236494 to 0.236493
+  end computation: Sun May 19 22:37:59 2019
+level 4:
+  start computation: Sun May 19 22:37:59 2019
+  network size: 37 nodes, 1369 links, 2.39354e+07 weight
+  quality increased from 0.236493 to 0.236495
+  end computation: Sun May 19 22:37:59 2019
+End: Sun May 19 22:37:59 2019
+Total duration: 122 sec
+0.236495
+Begin: Sun May 19 22:38:28 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:38:29 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:38:45 2019
+level 1:
+  start computation: Sun May 19 22:38:45 2019
+  network size: 1673 nodes, 8403 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416454
+  end computation: Sun May 19 22:38:45 2019
+level 2:
+  start computation: Sun May 19 22:38:45 2019
+  network size: 403 nodes, 2075 links, 6.78865e+06 weight
+  quality increased from 0.416454 to 0.41651
+  end computation: Sun May 19 22:38:45 2019
+level 3:
+  start computation: Sun May 19 22:38:45 2019
+  network size: 187 nodes, 995 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:38:45 2019
+level 4:
+  start computation: Sun May 19 22:38:45 2019
+  network size: 153 nodes, 823 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:38:45 2019
+level 5:
+  start computation: Sun May 19 22:38:45 2019
+  network size: 151 nodes, 813 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:38:45 2019
+level 6:
+  start computation: Sun May 19 22:38:45 2019
+  network size: 150 nodes, 808 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:38:45 2019
+End: Sun May 19 22:38:45 2019
+Total duration: 17 sec
+0.416517
+Begin: Sun May 19 22:38:45 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:38:46 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135521
+  end computation: Sun May 19 22:40:23 2019
+level 1:
+  start computation: Sun May 19 22:40:23 2019
+  network size: 390687 nodes, 20502699 links, 2.39354e+07 weight
+  quality increased from 0.135521 to 0.236489
+  end computation: Sun May 19 22:40:47 2019
+level 2:
+  start computation: Sun May 19 22:40:47 2019
+  network size: 1347 nodes, 89991 links, 2.39354e+07 weight
+  quality increased from 0.236489 to 0.237037
+  end computation: Sun May 19 22:40:47 2019
+level 3:
+  start computation: Sun May 19 22:40:47 2019
+  network size: 49 nodes, 2345 links, 2.39354e+07 weight
+  quality increased from 0.237037 to 0.237039
+  end computation: Sun May 19 22:40:47 2019
+level 4:
+  start computation: Sun May 19 22:40:47 2019
+  network size: 36 nodes, 1296 links, 2.39354e+07 weight
+  quality increased from 0.237039 to 0.237039
+  end computation: Sun May 19 22:40:47 2019
+End: Sun May 19 22:40:47 2019
+Total duration: 122 sec
+0.237039
+Begin: Sun May 19 22:41:14 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:41:14 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:41:30 2019
+level 1:
+  start computation: Sun May 19 22:41:30 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:41:30 2019
+level 2:
+  start computation: Sun May 19 22:41:30 2019
+  network size: 404 nodes, 2076 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:41:30 2019
+level 3:
+  start computation: Sun May 19 22:41:30 2019
+  network size: 188 nodes, 998 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:41:30 2019
+level 4:
+  start computation: Sun May 19 22:41:30 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:41:30 2019
+level 5:
+  start computation: Sun May 19 22:41:30 2019
+  network size: 148 nodes, 796 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:41:30 2019
+End: Sun May 19 22:41:30 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 22:41:30 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:41:30 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135516
+  end computation: Sun May 19 22:42:59 2019
+level 1:
+  start computation: Sun May 19 22:42:59 2019
+  network size: 390798 nodes, 20502501 links, 2.39354e+07 weight
+  quality increased from 0.135516 to 0.236816
+  end computation: Sun May 19 22:43:19 2019
+level 2:
+  start computation: Sun May 19 22:43:19 2019
+  network size: 1237 nodes, 81533 links, 2.39354e+07 weight
+  quality increased from 0.236816 to 0.23742
+  end computation: Sun May 19 22:43:19 2019
+level 3:
+  start computation: Sun May 19 22:43:19 2019
+  network size: 49 nodes, 2385 links, 2.39354e+07 weight
+  quality increased from 0.23742 to 0.237422
+  end computation: Sun May 19 22:43:19 2019
+level 4:
+  start computation: Sun May 19 22:43:19 2019
+  network size: 37 nodes, 1369 links, 2.39354e+07 weight
+  quality increased from 0.237422 to 0.237422
+  end computation: Sun May 19 22:43:19 2019
+End: Sun May 19 22:43:19 2019
+Total duration: 109 sec
+0.237422
+Begin: Sun May 19 22:43:46 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:43:46 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:44:01 2019
+level 1:
+  start computation: Sun May 19 22:44:01 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:44:01 2019
+level 2:
+  start computation: Sun May 19 22:44:01 2019
+  network size: 405 nodes, 2085 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.416509
+  end computation: Sun May 19 22:44:01 2019
+level 3:
+  start computation: Sun May 19 22:44:01 2019
+  network size: 190 nodes, 1010 links, 6.78865e+06 weight
+  quality increased from 0.416509 to 0.416517
+  end computation: Sun May 19 22:44:01 2019
+level 4:
+  start computation: Sun May 19 22:44:01 2019
+  network size: 152 nodes, 818 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:44:01 2019
+level 5:
+  start computation: Sun May 19 22:44:01 2019
+  network size: 150 nodes, 808 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:44:01 2019
+End: Sun May 19 22:44:01 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 22:44:01 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:44:02 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135582
+  end computation: Sun May 19 22:45:29 2019
+level 1:
+  start computation: Sun May 19 22:45:29 2019
+  network size: 390831 nodes, 20500651 links, 2.39354e+07 weight
+  quality increased from 0.135582 to 0.23635
+  end computation: Sun May 19 22:45:47 2019
+level 2:
+  start computation: Sun May 19 22:45:47 2019
+  network size: 1455 nodes, 89635 links, 2.39354e+07 weight
+  quality increased from 0.23635 to 0.236885
+  end computation: Sun May 19 22:45:47 2019
+level 3:
+  start computation: Sun May 19 22:45:47 2019
+  network size: 51 nodes, 2479 links, 2.39354e+07 weight
+  quality increased from 0.236885 to 0.23689
+  end computation: Sun May 19 22:45:47 2019
+level 4:
+  start computation: Sun May 19 22:45:47 2019
+  network size: 35 nodes, 1225 links, 2.39354e+07 weight
+  quality increased from 0.23689 to 0.23689
+  end computation: Sun May 19 22:45:47 2019
+End: Sun May 19 22:45:47 2019
+Total duration: 106 sec
+0.23689
+Begin: Sun May 19 22:46:14 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:46:14 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:46:29 2019
+level 1:
+  start computation: Sun May 19 22:46:29 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:46:29 2019
+level 2:
+  start computation: Sun May 19 22:46:29 2019
+  network size: 404 nodes, 2076 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:46:29 2019
+level 3:
+  start computation: Sun May 19 22:46:29 2019
+  network size: 190 nodes, 1008 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:46:29 2019
+level 4:
+  start computation: Sun May 19 22:46:29 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:46:29 2019
+level 5:
+  start computation: Sun May 19 22:46:29 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:46:29 2019
+End: Sun May 19 22:46:29 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 22:46:29 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:46:30 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135517
+  end computation: Sun May 19 22:48:04 2019
+level 1:
+  start computation: Sun May 19 22:48:04 2019
+  network size: 390717 nodes, 20502798 links, 2.39354e+07 weight
+  quality increased from 0.135517 to 0.236827
+  end computation: Sun May 19 22:48:30 2019
+level 2:
+  start computation: Sun May 19 22:48:30 2019
+  network size: 1094 nodes, 64308 links, 2.39354e+07 weight
+  quality increased from 0.236827 to 0.23717
+  end computation: Sun May 19 22:48:30 2019
+level 3:
+  start computation: Sun May 19 22:48:30 2019
+  network size: 52 nodes, 2630 links, 2.39354e+07 weight
+  quality increased from 0.23717 to 0.237171
+  end computation: Sun May 19 22:48:30 2019
+level 4:
+  start computation: Sun May 19 22:48:30 2019
+  network size: 41 nodes, 1681 links, 2.39354e+07 weight
+  quality increased from 0.237171 to 0.237171
+  end computation: Sun May 19 22:48:30 2019
+End: Sun May 19 22:48:30 2019
+Total duration: 121 sec
+0.237171
+Begin: Sun May 19 22:48:55 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:48:55 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:49:11 2019
+level 1:
+  start computation: Sun May 19 22:49:11 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:49:11 2019
+level 2:
+  start computation: Sun May 19 22:49:11 2019
+  network size: 405 nodes, 2081 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:49:11 2019
+level 3:
+  start computation: Sun May 19 22:49:11 2019
+  network size: 189 nodes, 1003 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:49:11 2019
+level 4:
+  start computation: Sun May 19 22:49:11 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:49:11 2019
+level 5:
+  start computation: Sun May 19 22:49:11 2019
+  network size: 148 nodes, 796 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:49:11 2019
+End: Sun May 19 22:49:11 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 22:49:11 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:49:11 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135599
+  end computation: Sun May 19 22:50:35 2019
+level 1:
+  start computation: Sun May 19 22:50:35 2019
+  network size: 390724 nodes, 20499455 links, 2.39354e+07 weight
+  quality increased from 0.135599 to 0.236374
+  end computation: Sun May 19 22:51:00 2019
+level 2:
+  start computation: Sun May 19 22:51:00 2019
+  network size: 1058 nodes, 69154 links, 2.39354e+07 weight
+  quality increased from 0.236374 to 0.236841
+  end computation: Sun May 19 22:51:00 2019
+level 3:
+  start computation: Sun May 19 22:51:00 2019
+  network size: 45 nodes, 1903 links, 2.39354e+07 weight
+  quality increased from 0.236841 to 0.236842
+  end computation: Sun May 19 22:51:00 2019
+level 4:
+  start computation: Sun May 19 22:51:00 2019
+  network size: 39 nodes, 1519 links, 2.39354e+07 weight
+  quality increased from 0.236842 to 0.236842
+  end computation: Sun May 19 22:51:00 2019
+End: Sun May 19 22:51:00 2019
+Total duration: 109 sec
+0.236842
+Begin: Sun May 19 22:51:26 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:51:26 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:51:41 2019
+level 1:
+  start computation: Sun May 19 22:51:41 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:51:41 2019
+level 2:
+  start computation: Sun May 19 22:51:41 2019
+  network size: 404 nodes, 2076 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:51:41 2019
+level 3:
+  start computation: Sun May 19 22:51:41 2019
+  network size: 188 nodes, 998 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:51:41 2019
+level 4:
+  start computation: Sun May 19 22:51:41 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:51:41 2019
+level 5:
+  start computation: Sun May 19 22:51:41 2019
+  network size: 148 nodes, 796 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:51:41 2019
+End: Sun May 19 22:51:41 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 22:51:41 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:51:42 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.13549
+  end computation: Sun May 19 22:53:06 2019
+level 1:
+  start computation: Sun May 19 22:53:06 2019
+  network size: 390985 nodes, 20504327 links, 2.39354e+07 weight
+  quality increased from 0.13549 to 0.236615
+  end computation: Sun May 19 22:53:27 2019
+level 2:
+  start computation: Sun May 19 22:53:27 2019
+  network size: 906 nodes, 50740 links, 2.39354e+07 weight
+  quality increased from 0.236615 to 0.236904
+  end computation: Sun May 19 22:53:27 2019
+level 3:
+  start computation: Sun May 19 22:53:27 2019
+  network size: 45 nodes, 2003 links, 2.39354e+07 weight
+  quality increased from 0.236904 to 0.236906
+  end computation: Sun May 19 22:53:27 2019
+level 4:
+  start computation: Sun May 19 22:53:27 2019
+  network size: 35 nodes, 1225 links, 2.39354e+07 weight
+  quality increased from 0.236906 to 0.236906
+  end computation: Sun May 19 22:53:27 2019
+End: Sun May 19 22:53:27 2019
+Total duration: 106 sec
+0.236906
+Begin: Sun May 19 22:53:53 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:53:53 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:54:08 2019
+level 1:
+  start computation: Sun May 19 22:54:08 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:54:08 2019
+level 2:
+  start computation: Sun May 19 22:54:08 2019
+  network size: 406 nodes, 2086 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:54:08 2019
+level 3:
+  start computation: Sun May 19 22:54:08 2019
+  network size: 189 nodes, 1003 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:54:08 2019
+level 4:
+  start computation: Sun May 19 22:54:08 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:54:08 2019
+level 5:
+  start computation: Sun May 19 22:54:08 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:54:08 2019
+End: Sun May 19 22:54:08 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 22:54:08 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:54:09 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.181027
+  end computation: Sun May 19 22:55:55 2019
+level 1:
+  start computation: Sun May 19 22:55:55 2019
+  network size: 286668 nodes, 11572732 links, 2.39354e+07 weight
+  quality increased from 0.181027 to 0.245229
+  end computation: Sun May 19 22:56:03 2019
+level 2:
+  start computation: Sun May 19 22:56:03 2019
+  network size: 4286 nodes, 237548 links, 2.39354e+07 weight
+  quality increased from 0.245229 to 0.246371
+  end computation: Sun May 19 22:56:03 2019
+level 3:
+  start computation: Sun May 19 22:56:03 2019
+  network size: 97 nodes, 6965 links, 2.39354e+07 weight
+  quality increased from 0.246371 to 0.246383
+  end computation: Sun May 19 22:56:03 2019
+level 4:
+  start computation: Sun May 19 22:56:03 2019
+  network size: 45 nodes, 2025 links, 2.39354e+07 weight
+  quality increased from 0.246383 to 0.246383
+  end computation: Sun May 19 22:56:03 2019
+level 5:
+  start computation: Sun May 19 22:56:03 2019
+  network size: 43 nodes, 1849 links, 2.39354e+07 weight
+  quality increased from 0.246383 to 0.246383
+  end computation: Sun May 19 22:56:03 2019
+End: Sun May 19 22:56:03 2019
+Total duration: 115 sec
+0.246383
+Begin: Sun May 19 22:56:29 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:56:29 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:56:44 2019
+level 1:
+  start computation: Sun May 19 22:56:44 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:56:44 2019
+level 2:
+  start computation: Sun May 19 22:56:44 2019
+  network size: 406 nodes, 2086 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:56:44 2019
+level 3:
+  start computation: Sun May 19 22:56:44 2019
+  network size: 190 nodes, 1008 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:56:44 2019
+level 4:
+  start computation: Sun May 19 22:56:44 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:56:44 2019
+level 5:
+  start computation: Sun May 19 22:56:44 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:56:44 2019
+End: Sun May 19 22:56:44 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 22:56:44 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:56:45 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.13558
+  end computation: Sun May 19 22:58:11 2019
+level 1:
+  start computation: Sun May 19 22:58:11 2019
+  network size: 390824 nodes, 20500607 links, 2.39354e+07 weight
+  quality increased from 0.13558 to 0.238066
+  end computation: Sun May 19 22:58:34 2019
+level 2:
+  start computation: Sun May 19 22:58:34 2019
+  network size: 1294 nodes, 83792 links, 2.39354e+07 weight
+  quality increased from 0.238066 to 0.238597
+  end computation: Sun May 19 22:58:34 2019
+level 3:
+  start computation: Sun May 19 22:58:34 2019
+  network size: 49 nodes, 2377 links, 2.39354e+07 weight
+  quality increased from 0.238597 to 0.238601
+  end computation: Sun May 19 22:58:34 2019
+level 4:
+  start computation: Sun May 19 22:58:34 2019
+  network size: 35 nodes, 1225 links, 2.39354e+07 weight
+  quality increased from 0.238601 to 0.238601
+  end computation: Sun May 19 22:58:34 2019
+End: Sun May 19 22:58:34 2019
+Total duration: 110 sec
+0.238601
+Begin: Sun May 19 22:58:59 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:59:00 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 22:59:15 2019
+level 1:
+  start computation: Sun May 19 22:59:15 2019
+  network size: 1673 nodes, 8403 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 22:59:15 2019
+level 2:
+  start computation: Sun May 19 22:59:15 2019
+  network size: 405 nodes, 2081 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 22:59:15 2019
+level 3:
+  start computation: Sun May 19 22:59:15 2019
+  network size: 190 nodes, 1008 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 22:59:15 2019
+level 4:
+  start computation: Sun May 19 22:59:15 2019
+  network size: 152 nodes, 816 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:59:15 2019
+level 5:
+  start computation: Sun May 19 22:59:15 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 22:59:15 2019
+End: Sun May 19 22:59:15 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 22:59:15 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 22:59:15 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.223457
+  end computation: Sun May 19 23:00:41 2019
+level 1:
+  start computation: Sun May 19 23:00:41 2019
+  network size: 224161 nodes, 6319927 links, 2.39354e+07 weight
+  quality increased from 0.223457 to 0.257334
+  end computation: Sun May 19 23:00:46 2019
+level 2:
+  start computation: Sun May 19 23:00:46 2019
+  network size: 7221 nodes, 322315 links, 2.39354e+07 weight
+  quality increased from 0.257334 to 0.258458
+  end computation: Sun May 19 23:00:46 2019
+level 3:
+  start computation: Sun May 19 23:00:46 2019
+  network size: 181 nodes, 12961 links, 2.39354e+07 weight
+  quality increased from 0.258458 to 0.258483
+  end computation: Sun May 19 23:00:46 2019
+level 4:
+  start computation: Sun May 19 23:00:46 2019
+  network size: 49 nodes, 2401 links, 2.39354e+07 weight
+  quality increased from 0.258483 to 0.258483
+  end computation: Sun May 19 23:00:46 2019
+level 5:
+  start computation: Sun May 19 23:00:46 2019
+  network size: 47 nodes, 2209 links, 2.39354e+07 weight
+  quality increased from 0.258483 to 0.258483
+  end computation: Sun May 19 23:00:46 2019
+End: Sun May 19 23:00:46 2019
+Total duration: 91 sec
+0.258483
+Begin: Sun May 19 23:01:11 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:01:12 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:01:27 2019
+level 1:
+  start computation: Sun May 19 23:01:27 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:01:27 2019
+level 2:
+  start computation: Sun May 19 23:01:27 2019
+  network size: 404 nodes, 2076 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 23:01:27 2019
+level 3:
+  start computation: Sun May 19 23:01:27 2019
+  network size: 188 nodes, 998 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 23:01:27 2019
+level 4:
+  start computation: Sun May 19 23:01:27 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:01:27 2019
+level 5:
+  start computation: Sun May 19 23:01:27 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:01:27 2019
+End: Sun May 19 23:01:27 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 23:01:27 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:01:28 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.13551
+  end computation: Sun May 19 23:02:53 2019
+level 1:
+  start computation: Sun May 19 23:02:53 2019
+  network size: 390894 nodes, 20503119 links, 2.39354e+07 weight
+  quality increased from 0.13551 to 0.234506
+  end computation: Sun May 19 23:03:15 2019
+level 2:
+  start computation: Sun May 19 23:03:15 2019
+  network size: 996 nodes, 66620 links, 2.39354e+07 weight
+  quality increased from 0.234506 to 0.235473
+  end computation: Sun May 19 23:03:15 2019
+level 3:
+  start computation: Sun May 19 23:03:15 2019
+  network size: 41 nodes, 1661 links, 2.39354e+07 weight
+  quality increased from 0.235473 to 0.235476
+  end computation: Sun May 19 23:03:15 2019
+level 4:
+  start computation: Sun May 19 23:03:15 2019
+  network size: 34 nodes, 1156 links, 2.39354e+07 weight
+  quality increased from 0.235476 to 0.235476
+  end computation: Sun May 19 23:03:15 2019
+End: Sun May 19 23:03:15 2019
+Total duration: 108 sec
+0.235476
+Begin: Sun May 19 23:03:40 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:03:40 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:03:56 2019
+level 1:
+  start computation: Sun May 19 23:03:56 2019
+  network size: 1673 nodes, 8403 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416454
+  end computation: Sun May 19 23:03:56 2019
+level 2:
+  start computation: Sun May 19 23:03:56 2019
+  network size: 403 nodes, 2071 links, 6.78865e+06 weight
+  quality increased from 0.416454 to 0.416509
+  end computation: Sun May 19 23:03:56 2019
+level 3:
+  start computation: Sun May 19 23:03:56 2019
+  network size: 191 nodes, 1013 links, 6.78865e+06 weight
+  quality increased from 0.416509 to 0.416517
+  end computation: Sun May 19 23:03:56 2019
+level 4:
+  start computation: Sun May 19 23:03:56 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:03:56 2019
+level 5:
+  start computation: Sun May 19 23:03:56 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:03:56 2019
+End: Sun May 19 23:03:56 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 23:03:56 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:03:56 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.18196
+  end computation: Sun May 19 23:05:28 2019
+level 1:
+  start computation: Sun May 19 23:05:28 2019
+  network size: 285451 nodes, 11325674 links, 2.39354e+07 weight
+  quality increased from 0.18196 to 0.24578
+  end computation: Sun May 19 23:05:37 2019
+level 2:
+  start computation: Sun May 19 23:05:37 2019
+  network size: 4448 nodes, 237030 links, 2.39354e+07 weight
+  quality increased from 0.24578 to 0.246975
+  end computation: Sun May 19 23:05:37 2019
+level 3:
+  start computation: Sun May 19 23:05:37 2019
+  network size: 93 nodes, 6447 links, 2.39354e+07 weight
+  quality increased from 0.246975 to 0.246987
+  end computation: Sun May 19 23:05:37 2019
+level 4:
+  start computation: Sun May 19 23:05:37 2019
+  network size: 44 nodes, 1936 links, 2.39354e+07 weight
+  quality increased from 0.246987 to 0.246988
+  end computation: Sun May 19 23:05:37 2019
+level 5:
+  start computation: Sun May 19 23:05:37 2019
+  network size: 43 nodes, 1849 links, 2.39354e+07 weight
+  quality increased from 0.246988 to 0.246988
+  end computation: Sun May 19 23:05:37 2019
+End: Sun May 19 23:05:37 2019
+Total duration: 101 sec
+0.246988
+Begin: Sun May 19 23:06:03 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:06:04 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:06:19 2019
+level 1:
+  start computation: Sun May 19 23:06:19 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416454
+  end computation: Sun May 19 23:06:19 2019
+level 2:
+  start computation: Sun May 19 23:06:19 2019
+  network size: 403 nodes, 2071 links, 6.78865e+06 weight
+  quality increased from 0.416454 to 0.416509
+  end computation: Sun May 19 23:06:19 2019
+level 3:
+  start computation: Sun May 19 23:06:19 2019
+  network size: 191 nodes, 1013 links, 6.78865e+06 weight
+  quality increased from 0.416509 to 0.416517
+  end computation: Sun May 19 23:06:19 2019
+level 4:
+  start computation: Sun May 19 23:06:19 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:06:19 2019
+level 5:
+  start computation: Sun May 19 23:06:19 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:06:19 2019
+End: Sun May 19 23:06:19 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 23:06:19 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:06:19 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.181324
+  end computation: Sun May 19 23:08:09 2019
+level 1:
+  start computation: Sun May 19 23:08:09 2019
+  network size: 285707 nodes, 11474142 links, 2.39354e+07 weight
+  quality increased from 0.181324 to 0.245909
+  end computation: Sun May 19 23:08:21 2019
+level 2:
+  start computation: Sun May 19 23:08:21 2019
+  network size: 3732 nodes, 205542 links, 2.39354e+07 weight
+  quality increased from 0.245909 to 0.246683
+  end computation: Sun May 19 23:08:21 2019
+level 3:
+  start computation: Sun May 19 23:08:21 2019
+  network size: 84 nodes, 5676 links, 2.39354e+07 weight
+  quality increased from 0.246683 to 0.246693
+  end computation: Sun May 19 23:08:21 2019
+level 4:
+  start computation: Sun May 19 23:08:21 2019
+  network size: 42 nodes, 1764 links, 2.39354e+07 weight
+  quality increased from 0.246693 to 0.246693
+  end computation: Sun May 19 23:08:21 2019
+End: Sun May 19 23:08:21 2019
+Total duration: 122 sec
+0.246693
+Begin: Sun May 19 23:08:46 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:08:46 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:09:02 2019
+level 1:
+  start computation: Sun May 19 23:09:02 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:09:02 2019
+level 2:
+  start computation: Sun May 19 23:09:02 2019
+  network size: 405 nodes, 2085 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.416509
+  end computation: Sun May 19 23:09:02 2019
+level 3:
+  start computation: Sun May 19 23:09:02 2019
+  network size: 190 nodes, 1010 links, 6.78865e+06 weight
+  quality increased from 0.416509 to 0.416517
+  end computation: Sun May 19 23:09:02 2019
+level 4:
+  start computation: Sun May 19 23:09:02 2019
+  network size: 152 nodes, 818 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:09:02 2019
+level 5:
+  start computation: Sun May 19 23:09:02 2019
+  network size: 150 nodes, 808 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:09:02 2019
+End: Sun May 19 23:09:02 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 23:09:02 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:09:02 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135537
+  end computation: Sun May 19 23:10:29 2019
+level 1:
+  start computation: Sun May 19 23:10:29 2019
+  network size: 390540 nodes, 20501648 links, 2.39354e+07 weight
+  quality increased from 0.135537 to 0.234869
+  end computation: Sun May 19 23:10:47 2019
+level 2:
+  start computation: Sun May 19 23:10:47 2019
+  network size: 1307 nodes, 85547 links, 2.39354e+07 weight
+  quality increased from 0.234869 to 0.235547
+  end computation: Sun May 19 23:10:47 2019
+level 3:
+  start computation: Sun May 19 23:10:47 2019
+  network size: 49 nodes, 2379 links, 2.39354e+07 weight
+  quality increased from 0.235547 to 0.235548
+  end computation: Sun May 19 23:10:47 2019
+level 4:
+  start computation: Sun May 19 23:10:47 2019
+  network size: 40 nodes, 1600 links, 2.39354e+07 weight
+  quality increased from 0.235548 to 0.235548
+  end computation: Sun May 19 23:10:47 2019
+End: Sun May 19 23:10:47 2019
+Total duration: 105 sec
+0.235548
+Begin: Sun May 19 23:11:16 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:11:16 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:11:33 2019
+level 1:
+  start computation: Sun May 19 23:11:33 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:11:33 2019
+level 2:
+  start computation: Sun May 19 23:11:33 2019
+  network size: 404 nodes, 2080 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.416509
+  end computation: Sun May 19 23:11:33 2019
+level 3:
+  start computation: Sun May 19 23:11:33 2019
+  network size: 191 nodes, 1015 links, 6.78865e+06 weight
+  quality increased from 0.416509 to 0.416517
+  end computation: Sun May 19 23:11:33 2019
+level 4:
+  start computation: Sun May 19 23:11:33 2019
+  network size: 152 nodes, 818 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:11:33 2019
+level 5:
+  start computation: Sun May 19 23:11:33 2019
+  network size: 150 nodes, 808 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:11:33 2019
+End: Sun May 19 23:11:33 2019
+Total duration: 17 sec
+0.416517
+Begin: Sun May 19 23:11:33 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:11:33 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135499
+  end computation: Sun May 19 23:13:11 2019
+level 1:
+  start computation: Sun May 19 23:13:11 2019
+  network size: 390919 nodes, 20503873 links, 2.39354e+07 weight
+  quality increased from 0.135499 to 0.238037
+  end computation: Sun May 19 23:13:33 2019
+level 2:
+  start computation: Sun May 19 23:13:33 2019
+  network size: 1158 nodes, 67002 links, 2.39354e+07 weight
+  quality increased from 0.238037 to 0.238464
+  end computation: Sun May 19 23:13:33 2019
+level 3:
+  start computation: Sun May 19 23:13:33 2019
+  network size: 47 nodes, 2151 links, 2.39354e+07 weight
+  quality increased from 0.238464 to 0.238466
+  end computation: Sun May 19 23:13:33 2019
+level 4:
+  start computation: Sun May 19 23:13:33 2019
+  network size: 38 nodes, 1442 links, 2.39354e+07 weight
+  quality increased from 0.238466 to 0.238466
+  end computation: Sun May 19 23:13:33 2019
+End: Sun May 19 23:13:33 2019
+Total duration: 120 sec
+0.238466
+Begin: Sun May 19 23:13:58 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:13:58 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:14:13 2019
+level 1:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:14:13 2019
+level 2:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 406 nodes, 2086 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 23:14:13 2019
+level 3:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 188 nodes, 998 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 23:14:13 2019
+level 4:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 152 nodes, 816 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:14:13 2019
+level 5:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:14:13 2019
+level 6:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:14:13 2019
+End: Sun May 19 23:14:13 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 23:14:13 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:14:13 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.179792
+  end computation: Sun May 19 23:15:53 2019
+level 1:
+  start computation: Sun May 19 23:15:53 2019
+  network size: 288146 nodes, 11681296 links, 2.39354e+07 weight
+  quality increased from 0.179792 to 0.240581
+  end computation: Sun May 19 23:16:04 2019
+level 2:
+  start computation: Sun May 19 23:16:04 2019
+  network size: 2952 nodes, 173072 links, 2.39354e+07 weight
+  quality increased from 0.240581 to 0.242483
+  end computation: Sun May 19 23:16:04 2019
+level 3:
+  start computation: Sun May 19 23:16:04 2019
+  network size: 85 nodes, 5797 links, 2.39354e+07 weight
+  quality increased from 0.242483 to 0.242493
+  end computation: Sun May 19 23:16:04 2019
+level 4:
+  start computation: Sun May 19 23:16:04 2019
+  network size: 43 nodes, 1849 links, 2.39354e+07 weight
+  quality increased from 0.242493 to 0.242493
+  end computation: Sun May 19 23:16:04 2019
+End: Sun May 19 23:16:04 2019
+Total duration: 111 sec
+0.242493
+Begin: Sun May 19 23:16:30 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:16:30 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:16:45 2019
+level 1:
+  start computation: Sun May 19 23:16:45 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:16:45 2019
+level 2:
+  start computation: Sun May 19 23:16:45 2019
+  network size: 405 nodes, 2085 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 23:16:45 2019
+level 3:
+  start computation: Sun May 19 23:16:45 2019
+  network size: 189 nodes, 1005 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 23:16:45 2019
+level 4:
+  start computation: Sun May 19 23:16:45 2019
+  network size: 151 nodes, 813 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:16:45 2019
+level 5:
+  start computation: Sun May 19 23:16:45 2019
+  network size: 150 nodes, 808 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:16:45 2019
+End: Sun May 19 23:16:45 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 23:16:45 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:16:46 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135517
+  end computation: Sun May 19 23:18:15 2019
+level 1:
+  start computation: Sun May 19 23:18:15 2019
+  network size: 390727 nodes, 20502933 links, 2.39354e+07 weight
+  quality increased from 0.135517 to 0.235159
+  end computation: Sun May 19 23:18:34 2019
+level 2:
+  start computation: Sun May 19 23:18:34 2019
+  network size: 1067 nodes, 64913 links, 2.39354e+07 weight
+  quality increased from 0.235159 to 0.23799
+  end computation: Sun May 19 23:18:34 2019
+level 3:
+  start computation: Sun May 19 23:18:34 2019
+  network size: 45 nodes, 1983 links, 2.39354e+07 weight
+  quality increased from 0.23799 to 0.237991
+  end computation: Sun May 19 23:18:34 2019
+level 4:
+  start computation: Sun May 19 23:18:34 2019
+  network size: 38 nodes, 1444 links, 2.39354e+07 weight
+  quality increased from 0.237991 to 0.237991
+  end computation: Sun May 19 23:18:34 2019
+End: Sun May 19 23:18:34 2019
+Total duration: 109 sec
+0.237991
+Begin: Sun May 19 23:18:59 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:18:59 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:19:15 2019
+level 1:
+  start computation: Sun May 19 23:19:15 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:19:15 2019
+level 2:
+  start computation: Sun May 19 23:19:15 2019
+  network size: 406 nodes, 2086 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 23:19:15 2019
+level 3:
+  start computation: Sun May 19 23:19:15 2019
+  network size: 190 nodes, 1008 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 23:19:15 2019
+level 4:
+  start computation: Sun May 19 23:19:15 2019
+  network size: 150 nodes, 806 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:19:15 2019
+level 5:
+  start computation: Sun May 19 23:19:15 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:19:15 2019
+End: Sun May 19 23:19:15 2019
+Total duration: 16 sec
+0.416517
+Begin: Sun May 19 23:19:15 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:19:15 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.17988
+  end computation: Sun May 19 23:21:18 2019
+level 1:
+  start computation: Sun May 19 23:21:18 2019
+  network size: 287407 nodes, 11568019 links, 2.39354e+07 weight
+  quality increased from 0.17988 to 0.243653
+  end computation: Sun May 19 23:21:28 2019
+level 2:
+  start computation: Sun May 19 23:21:28 2019
+  network size: 3689 nodes, 210405 links, 2.39354e+07 weight
+  quality increased from 0.243653 to 0.244433
+  end computation: Sun May 19 23:21:28 2019
+level 3:
+  start computation: Sun May 19 23:21:28 2019
+  network size: 89 nodes, 6271 links, 2.39354e+07 weight
+  quality increased from 0.244433 to 0.244444
+  end computation: Sun May 19 23:21:28 2019
+level 4:
+  start computation: Sun May 19 23:21:28 2019
+  network size: 44 nodes, 1936 links, 2.39354e+07 weight
+  quality increased from 0.244444 to 0.244444
+  end computation: Sun May 19 23:21:28 2019
+level 5:
+  start computation: Sun May 19 23:21:28 2019
+  network size: 43 nodes, 1849 links, 2.39354e+07 weight
+  quality increased from 0.244444 to 0.244444
+  end computation: Sun May 19 23:21:28 2019
+End: Sun May 19 23:21:28 2019
+Total duration: 133 sec
+0.244444
+Begin: Sun May 19 23:21:53 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:21:53 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:22:08 2019
+level 1:
+  start computation: Sun May 19 23:22:08 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:22:08 2019
+level 2:
+  start computation: Sun May 19 23:22:08 2019
+  network size: 406 nodes, 2086 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 23:22:08 2019
+level 3:
+  start computation: Sun May 19 23:22:08 2019
+  network size: 190 nodes, 1008 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 23:22:08 2019
+level 4:
+  start computation: Sun May 19 23:22:08 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:22:08 2019
+level 5:
+  start computation: Sun May 19 23:22:08 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:22:08 2019
+End: Sun May 19 23:22:08 2019
+Total duration: 15 sec
+0.416517
+Begin: Sun May 19 23:22:08 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:22:09 2019
+  network size: 1719038 nodes, 23935356 links, 2.39354e+07 weight
+  quality increased from 0.0246666 to 0.135515
+  end computation: Sun May 19 23:23:31 2019
+level 1:
+  start computation: Sun May 19 23:23:31 2019
+  network size: 390778 nodes, 20502974 links, 2.39354e+07 weight
+  quality increased from 0.135515 to 0.235933
+  end computation: Sun May 19 23:23:51 2019
+level 2:
+  start computation: Sun May 19 23:23:51 2019
+  network size: 935 nodes, 57033 links, 2.39354e+07 weight
+  quality increased from 0.235933 to 0.237029
+  end computation: Sun May 19 23:23:51 2019
+level 3:
+  start computation: Sun May 19 23:23:51 2019
+  network size: 43 nodes, 1811 links, 2.39354e+07 weight
+  quality increased from 0.237029 to 0.237032
+  end computation: Sun May 19 23:23:51 2019
+level 4:
+  start computation: Sun May 19 23:23:51 2019
+  network size: 36 nodes, 1296 links, 2.39354e+07 weight
+  quality increased from 0.237032 to 0.237032
+  end computation: Sun May 19 23:23:51 2019
+End: Sun May 19 23:23:51 2019
+Total duration: 103 sec
+0.237032
+Begin: Sun May 19 23:24:17 2019
+
+Computation of communities with the Newman-Girvan Modularity quality function
+
+level 0:
+  start computation: Sun May 19 23:24:17 2019
+  network size: 1719038 nodes, 6788647 links, 6.78865e+06 weight
+  quality increased from -0.0673273 to 0.416099
+  end computation: Sun May 19 23:24:31 2019
+level 1:
+  start computation: Sun May 19 23:24:31 2019
+  network size: 1674 nodes, 8408 links, 6.78865e+06 weight
+  quality increased from 0.416099 to 0.416453
+  end computation: Sun May 19 23:24:31 2019
+level 2:
+  start computation: Sun May 19 23:24:31 2019
+  network size: 406 nodes, 2086 links, 6.78865e+06 weight
+  quality increased from 0.416453 to 0.41651
+  end computation: Sun May 19 23:24:31 2019
+level 3:
+  start computation: Sun May 19 23:24:31 2019
+  network size: 190 nodes, 1008 links, 6.78865e+06 weight
+  quality increased from 0.41651 to 0.416517
+  end computation: Sun May 19 23:24:31 2019
+level 4:
+  start computation: Sun May 19 23:24:31 2019
+  network size: 151 nodes, 811 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:24:31 2019
+level 5:
+  start computation: Sun May 19 23:24:31 2019
+  network size: 149 nodes, 801 links, 6.78865e+06 weight
+  quality increased from 0.416517 to 0.416517
+  end computation: Sun May 19 23:24:31 2019
+End: Sun May 19 23:24:31 2019
+Total duration: 14 sec
+0.416517
