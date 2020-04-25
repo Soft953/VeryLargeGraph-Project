@@ -1,14 +1,10 @@
 # VeryLargeGraph-Project
 
-@author Bourghes Sofiene bourgh_s
-
-@class EPITA SCIA 2020
-
-@email sofiene.bourghes@epita.fr
+@author Bourghes Sofiene 
 
 @topic Clustering and Reordering
 
-This is the code for the VeryLargeGraph course, SCIA 2020.
+This is the code for the VeryLargeGraph course.
 
 First run louvain algorithm (follow louvain README).
 
